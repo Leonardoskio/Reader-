@@ -1,0 +1,6 @@
+{
+  "name": "Vocalia — Studio Italiano Text-to-Speech & Regia Prosodica",
+  "description": "Studio di sintesi vocale in italiano ad alta fedeltà con analisi prosodica di virgole, toni e impostazione vocale ed esportazione audio multi-formato (WAV, MP3, FLAC, OGG).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
